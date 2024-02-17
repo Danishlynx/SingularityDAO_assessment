@@ -1,5 +1,6 @@
 # SmartContractManager Documentation
 
+
 ## 1. Introduction
 
 The `SmartContractManager` is a sophisticated Solidity smart contract designed for streamlined management of contract addresses and their associated metadata within a decentralized framework. This contract utilizes advanced data structures, batch processing, and rigorous access control mechanisms to ensure optimal performance, security, and ease of use.
@@ -82,7 +83,16 @@ The test suite ensures the robustness and reliability of the `SmartContractManag
 
 The `SmartContractManager` contract is a prime example of advanced blockchain development, showcasing best practices in data management, batch processing, and security. Its thoughtful design and implementation ensure it is well-equipped to meet the sophisticated needs of decentralized applications.
 
-# Deployment( I have made a temporary front-end for better engagement with contract)
+# Deployment( I have made a temporary front-end for better engagement with contract):
+
+```
+Live Wesbite availabel on : https://singularity-dao-assessment-zawj.vercel.app/
+```
+To do any funciton on the above website , you need to be the owner of contract, just send me your metamsk address stmy email id, and i will transfer ownership to you 
+```
+danishlynx@gmail.com
+```
+Esle, you can start your own local deployment by doing the follwing:
 
 ## User must have a Metamask account.
 Connect to Mumbai Testnet
@@ -136,6 +146,8 @@ npm start
 ```
 
 Both the react fron-end or polygon scan explorer can be used to interact wiht contract(please verify contract for that). While interacting with front-end please use the account which you ahve used for deployment of contract.
+
+You can always try the react app to interact with contract, but optionally, you have both hardhat node or remix ide as well to serve you.
 
 ![Screenshot 2024-02-17 133257](https://github.com/Danishlynx/SingularityDAO_assessment/assets/69537135/2948da8a-3a86-40a4-8024-7582ddff4e6f)
 ![Screenshot 2024-02-17 132841](https://github.com/Danishlynx/SingularityDAO_assessment/assets/69537135/af21995f-f1b7-43d9-99e6-6fe0d9dd4ea0)
