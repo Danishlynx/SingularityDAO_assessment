@@ -81,3 +81,12 @@ The test suite ensures the robustness and reliability of the `SmartContractManag
 ## 6. Conclusion
 
 The `SmartContractManager` contract is a prime example of advanced blockchain development, showcasing best practices in data management, batch processing, and security. Its thoughtful design and implementation ensure it is well-equipped to meet the sophisticated needs of decentralized applications.
+
+# Installation
+
+```
+Clone the repo: git clone https://github.com/Danishlynx/SingularityDAO_assessment
+
+``` 
+
+
