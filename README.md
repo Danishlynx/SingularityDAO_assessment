@@ -88,7 +88,7 @@ The `SmartContractManager` contract is a prime example of advanced blockchain de
 ```
 Live Wesbite availabel on : https://singularity-dao-assessment-zawj.vercel.app/
 ```
-To do any funciton on the above website , you need to be the owner of contract, just send me your metamsk address stmy email id, and i will transfer ownership to you 
+To do any function on the above website , you need to be the owner of contract, just send me your metamsk address stmy email id, and i will transfer ownership to you 
 ```
 danishlynx@gmail.com
 ```
