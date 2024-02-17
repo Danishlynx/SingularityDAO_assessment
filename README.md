@@ -82,7 +82,7 @@ The test suite ensures the robustness and reliability of the `SmartContractManag
 
 The `SmartContractManager` contract is a prime example of advanced blockchain development, showcasing best practices in data management, batch processing, and security. Its thoughtful design and implementation ensure it is well-equipped to meet the sophisticated needs of decentralized applications.
 
-# Deployment( I have made a temporary front-end for better engagement wiht contract)
+# Deployment( I have made a temporary front-end for better engagement with contract)
 
 ## User must have a Metamask account.
 Connect to Mumbai Testnet
